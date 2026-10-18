@@ -1,6 +1,7 @@
 # SDS 510
 
 Project work for SDS 510 at Arizona State University. Command-line work is done using an Ubuntu shell running via WSL (Windows Subsystem for Linux).
+
 **Instructor:** [Alex Halavais](http://alex.halavais.net/bio)
 
 ## Module 1: Basic Toolkit
